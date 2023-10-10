@@ -25,8 +25,6 @@ Database: MySQL
    5. Once User will sign using card number and ATM PIN below screen'll get appear:
       ![after_atm_login_screen](https://github.com/harsiddhi992/JavaProjects/assets/110450437/1c093e3a-de9c-4d88-a67f-4fbb60092cfb)
    6. Now All Set!!! User can use these features one of them feature shown below:
-      Card Number: 5040936033389342
-      PIN : 2196
       ![atm_feature](https://github.com/harsiddhi992/JavaProjects/assets/110450437/8d3cc32a-917d-46a9-b6db-fe51e3643aaf)
 
       
