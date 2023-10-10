@@ -16,9 +16,13 @@ To run the project:
 
 ### Visual 
 1. After Run Main.java user should see this interface:
-2. Now All Set!! User can use different features after login.
+2. For login enter email id and OTP as shown below:
+   
+   ![ATM_Project_WelcomeScreeen](https://github.com/harsiddhi992/JavaProjects/assets/110450437/813f97cf-19d1-4799-8b83-806127754dbb)
+   
+4. After login below screen will get appear and Now All Set!! User can use different features shown below:
+   ![after_login_filehiderproj](https://github.com/harsiddhi992/JavaProjects/assets/110450437/cf17d7e4-30a0-4de2-be60-5f161409bd19)
 
-![ATM_Project_WelcomeScreeen](https://github.com/harsiddhi992/JavaProjects/assets/110450437/b8c73fbf-7ef4-40e8-97c0-da5cbc5a0595)
 
-Refer =="file_hider_java_project_info" text file for understand In detail File Hider Project.
+Refer "file_hider_java_project_info" text file for understand In detail File Hider Project.
 
